@@ -1,7 +1,7 @@
 # BASH Scripting
 
 ### Table of Contents
-- [Comparison Operators](#comparison)
+- [Comparison Operators](#comparison-operators)
 
 ## Comparison operators
 
